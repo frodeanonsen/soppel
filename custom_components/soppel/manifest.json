@@ -1,0 +1,12 @@
+{
+  "domain": "soppel",
+  "name": "Søppelkalender",
+  "codeowners": ["@frodeanonsen"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/frodeanonsen/soppel",
+  "issue_tracker": "https://github.com/frodeanonsen/soppel/issues",
+  "iot_class": "cloud_polling",
+  "requirements": ["beautifulsoup4==4.13.4"],
+  "version": "1.0.0"
+}

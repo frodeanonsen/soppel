@@ -1,0 +1,29 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Søk etter adresse",
+        "description": "Søk etter din adresse i hentavfall.no",
+        "data": {
+          "municipality_id": "Kommune",
+          "address": "Adresse"
+        }
+      },
+      "select_address": {
+        "title": "Velg adresse",
+        "description": "Velg din adresse fra søkeresultatene",
+        "data": {
+          "address_id": "Adresse"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kunne ikke koble til hentavfall.no",
+      "no_results": "Ingen adresser funnet",
+      "no_address": "Vennligst oppgi en adresse"
+    },
+    "abort": {
+      "already_configured": "Denne adressen er allerede konfigurert"
+    }
+  }
+}
