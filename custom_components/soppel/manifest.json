@@ -5,8 +5,8 @@
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/frodeanonsen/soppel",
-  "issue_tracker": "https://github.com/frodeanonsen/soppel/issues",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/frodeanonsen/soppel/issues",
   "requirements": ["beautifulsoup4==4.13.4"],
   "version": "1.0.0"
 }
